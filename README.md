@@ -19,7 +19,7 @@ This repository contains all deliverables and reference materials for the Tata i
 
 ## 🔗 Program Link
 
-[Click to access the official simulation](https://lnkd.in/ewA3EAUN)
+[Click to access the official simulation]( https://lnkd.in/eahw7eNA)
 
 ## 📌 Tags
 
